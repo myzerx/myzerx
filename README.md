@@ -1,4 +1,6 @@
-### Salve! me chamo Richard ;)
+<p align="center">
+  <img src="https://github.com/myzerx/myzerx/raw/main/assets/header-github.gif" alt="E aew! sou o Richard">
+</p>
 
 
 - 🔭 Atualmente trabalho como Desenvolvedor SAP na Lab2Dev
