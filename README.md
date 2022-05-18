@@ -1,13 +1,12 @@
-### Hello World! me chamo Richard!
+### Salve! me chamo Richard ;)
 
-<!-- - 📧 Contate-me no email: vvsspp423@gmail.com --> 
 
 - 🔭 Atualmente trabalho como Desenvolvedor SAP na Lab2Dev
 - 📚 Estudando Node.js, Hana e ABAP!
 - 📫 Contate-me no email: cassola.delemos@hotmail.com
 
 <div align="center">
-  <a href="https://github.com/VitorSilva-dev">
+  <a href="https://github.com/myzerx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myzerx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myzerx&layout=compact&langs_count=7&theme=dark"/>
 </div>
