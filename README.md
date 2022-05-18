@@ -7,7 +7,7 @@
 - 📚 Estudando Node.js, Hana e ABAP!
 - 📫 E-mail para Contato: cassola.delemos@hotmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/myzerx">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=myzerx&show_icons=true&locale=en" alt="myzerx" /></p>
 
