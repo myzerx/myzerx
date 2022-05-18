@@ -3,9 +3,9 @@
 </p>
 
 
-- 🔭 Atualmente trabalho como Desenvolvedor SAP na Lab2Dev
+- 🔭 Desenvolvedor SAP na Lab2Dev
 - 📚 Estudando Node.js, Hana e ABAP!
-- 📫 Contate-me no email: cassola.delemos@hotmail.com
+- 📫 E-mail para Contato: cassola.delemos@hotmail.com
 
 <div align="center">
   <a href="https://github.com/myzerx">
