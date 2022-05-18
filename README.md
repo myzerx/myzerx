@@ -2,7 +2,7 @@
 
 <!-- - 📧 Contate-me no email: vvsspp423@gmail.com --> 
 
-- 🔭 Atualmente trabalho como Desenvolvedor SAP Lab2Dev
+- 🔭 Atualmente trabalho como Desenvolvedor SAP na Lab2Dev
 - 📚 Estudando Node.js, Hana e ABAP!
 - 📫 Contate-me no email: cassola.delemos@hotmail.com
 
